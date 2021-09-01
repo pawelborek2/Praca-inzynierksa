@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elitist Ant System", "Elitist Ant System\Elitist Ant System.csproj", "{2E313876-524C-4F6E-87C1-79DD05030516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E313876-524C-4F6E-87C1-79DD05030516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E313876-524C-4F6E-87C1-79DD05030516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E313876-524C-4F6E-87C1-79DD05030516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E313876-524C-4F6E-87C1-79DD05030516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D14C5D9-D676-40DC-BB50-5674052CF66A}
+	EndGlobalSection
+EndGlobal

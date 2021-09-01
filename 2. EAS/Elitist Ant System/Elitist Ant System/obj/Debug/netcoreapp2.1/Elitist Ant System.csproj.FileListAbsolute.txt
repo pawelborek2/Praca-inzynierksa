@@ -1,0 +1,11 @@
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\bin\Debug\netcoreapp2.1\Elitist Ant System.deps.json
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\bin\Debug\netcoreapp2.1\Elitist Ant System.runtimeconfig.json
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\bin\Debug\netcoreapp2.1\Elitist Ant System.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\bin\Debug\netcoreapp2.1\Elitist Ant System.dll
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\bin\Debug\netcoreapp2.1\Elitist Ant System.pdb
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\obj\Debug\netcoreapp2.1\Elitist Ant System.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\obj\Debug\netcoreapp2.1\Elitist Ant System.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\obj\Debug\netcoreapp2.1\Elitist Ant System.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\obj\Debug\netcoreapp2.1\Elitist Ant System.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\obj\Debug\netcoreapp2.1\Elitist Ant System.dll
+C:\Users\Paweł\source\repos\Elitist Ant System\Elitist Ant System\obj\Debug\netcoreapp2.1\Elitist Ant System.pdb
