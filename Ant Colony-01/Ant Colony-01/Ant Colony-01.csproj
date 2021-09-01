@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Ant_Colony_01</RootNamespace>
+    <ApplicationIcon />
+    <Win32Resource />
+  </PropertyGroup>
+
+</Project>
