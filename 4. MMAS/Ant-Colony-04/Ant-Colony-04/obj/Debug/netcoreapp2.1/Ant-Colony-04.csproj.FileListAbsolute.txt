@@ -1,0 +1,11 @@
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\bin\Debug\netcoreapp2.1\Ant-Colony-04.deps.json
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\bin\Debug\netcoreapp2.1\Ant-Colony-04.runtimeconfig.json
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\bin\Debug\netcoreapp2.1\Ant-Colony-04.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\bin\Debug\netcoreapp2.1\Ant-Colony-04.dll
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\bin\Debug\netcoreapp2.1\Ant-Colony-04.pdb
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\obj\Debug\netcoreapp2.1\Ant-Colony-04.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\obj\Debug\netcoreapp2.1\Ant-Colony-04.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\obj\Debug\netcoreapp2.1\Ant-Colony-04.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\obj\Debug\netcoreapp2.1\Ant-Colony-04.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\obj\Debug\netcoreapp2.1\Ant-Colony-04.dll
+C:\Users\Paweł\source\repos\Ant-Colony-04\Ant-Colony-04\obj\Debug\netcoreapp2.1\Ant-Colony-04.pdb
